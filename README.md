@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vc-market-research-tool
 
 ## Overview
@@ -39,3 +40,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Acknowledgments
 - Open-source AI models for language processing.
 - SERPER API for data extraction and research.
+=======
+# vc-market-research-tool
+>>>>>>> a06b0213a535a8898d74f123f2261c4fde11cd07
